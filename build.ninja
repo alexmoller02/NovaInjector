@@ -162,7 +162,7 @@ build CMakeFiles/NovaUpdater.dir/src/updater.cpp.obj: CXX_COMPILER__NovaUpdater_
 # Link the executable NovaUpdater.exe
 
 build NovaUpdater.exe: CXX_EXECUTABLE_LINKER__NovaUpdater_ CMakeFiles/NovaUpdater.dir/NovaUpdater_autogen/mocs_compilation.cpp.obj CMakeFiles/NovaUpdater.dir/src/updater.cpp.obj || NovaUpdater_autogen NovaUpdater_autogen_timestamp_deps
-  LINK_FLAGS = -mwindows
+  LINK_FLAGS = -mwindows -static -static-libgcc -static-libstdc++
   LINK_LIBRARIES = -lshell32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\NovaUpdater.dir
   POST_BUILD = cd .
