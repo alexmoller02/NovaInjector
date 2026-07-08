@@ -1,4 +1,5 @@
 C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/NovaInjector.dir
+C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/NovaUpdater.dir
 C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/edit_cache.dir
 C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/rebuild_cache.dir
 C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/list_install_components.dir
@@ -7,3 +8,5 @@ C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/instal
 C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/install/strip.dir
 C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/NovaInjector_autogen_timestamp_deps.dir
 C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/NovaInjector_autogen.dir
+C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/NovaUpdater_autogen_timestamp_deps.dir
+C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/NovaUpdater_autogen.dir

@@ -1,3 +1,6 @@
 set(__QT_DEPLOY_TARGET_NovaInjector_FILE C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector.exe)
 set(__QT_DEPLOY_TARGET_NovaInjector_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_NovaInjector_RUNTIME_DLLS C:/Qt/6.11.1/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.11.1/mingw_64/bin/Qt6Concurrent.dll;C:/Qt/6.11.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.1/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_NovaInjector_RUNTIME_DLLS C:/Qt/6.11.1/mingw_64/bin/Qt6Widgets.dll;C:/Qt/6.11.1/mingw_64/bin/Qt6Concurrent.dll;C:/Qt/6.11.1/mingw_64/bin/Qt6Network.dll;C:/Qt/6.11.1/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.11.1/mingw_64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_NovaUpdater_FILE C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaUpdater.exe)
+set(__QT_DEPLOY_TARGET_NovaUpdater_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_NovaUpdater_RUNTIME_DLLS )

@@ -5,6 +5,9 @@ if("${CONFIG}" STREQUAL "" OR "${CONFIG}" STREQUAL "")
   file(REMOVE_RECURSE
   "CMakeFiles\\NovaInjector_autogen.dir\\AutogenUsed.txt"
   "CMakeFiles\\NovaInjector_autogen.dir\\ParseCache.txt"
+  "CMakeFiles\\NovaUpdater_autogen.dir\\AutogenUsed.txt"
+  "CMakeFiles\\NovaUpdater_autogen.dir\\ParseCache.txt"
   "NovaInjector_autogen"
+  "NovaUpdater_autogen"
   )
 endif()

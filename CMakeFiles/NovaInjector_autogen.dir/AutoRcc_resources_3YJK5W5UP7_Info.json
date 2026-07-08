@@ -7,7 +7,11 @@
 	"CROSS_CONFIG" : false,
 	"GENERATOR" : "Ninja",
 	"INCLUDE_DIR" : "C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/include",
-	"INPUTS" : [],
+	"INPUTS" : 
+	[
+		"C:/Users/alexm/Documents/Programming/C++/DLL_Injector/resources/Imgs/logo.png",
+		"C:/Users/alexm/Documents/Programming/C++/DLL_Injector/resources/Imgs/logo.ico"
+	],
 	"LOCK_FILE" : "C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/CMakeFiles/NovaInjector_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Lock.lock",
 	"MULTI_CONFIG" : false,
 	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
