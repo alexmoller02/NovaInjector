@@ -45,7 +45,7 @@ cmake_ninja_workdir = C$:/Users/alexm/Documents/Programming/C++/DLL_Injector/bui
 build cmake_object_order_depends_target_NovaInjector: phony || NovaInjector_autogen NovaInjector_autogen/3YJK5W5UP7/qrc_resources.cpp NovaInjector_autogen/mocs_compilation.cpp NovaInjector_autogen/timestamp NovaInjector_autogen_timestamp_deps
 
 build CMakeFiles/NovaInjector.dir/NovaInjector_autogen/mocs_compilation.cpp.obj: CXX_COMPILER__NovaInjector_unscanned_ C$:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/mocs_compilation.cpp || cmake_object_order_depends_target_NovaInjector
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.0\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.1\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\NovaInjector.dir\NovaInjector_autogen\mocs_compilation.cpp.obj.d
   FLAGS = -std=gnu++20
   INCLUDES = -IC:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/include -isystem C:/Qt/6.11.1/mingw_64/include/QtCore -isystem C:/Qt/6.11.1/mingw_64/include -isystem C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.11.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.1/mingw_64/include/QtGui -isystem C:/Qt/6.11.1/mingw_64/include/QtConcurrent -isystem C:/Qt/6.11.1/mingw_64/include/QtNetwork
@@ -54,7 +54,7 @@ build CMakeFiles/NovaInjector.dir/NovaInjector_autogen/mocs_compilation.cpp.obj:
   TARGET_SUPPORT_DIR = CMakeFiles\NovaInjector.dir
 
 build CMakeFiles/NovaInjector.dir/src/main.cpp.obj: CXX_COMPILER__NovaInjector_unscanned_ C$:/Users/alexm/Documents/Programming/C++/DLL_Injector/src/main.cpp || cmake_object_order_depends_target_NovaInjector
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.0\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.1\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\NovaInjector.dir\src\main.cpp.obj.d
   FLAGS = -std=gnu++20
   INCLUDES = -IC:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/include -isystem C:/Qt/6.11.1/mingw_64/include/QtCore -isystem C:/Qt/6.11.1/mingw_64/include -isystem C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.11.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.1/mingw_64/include/QtGui -isystem C:/Qt/6.11.1/mingw_64/include/QtConcurrent -isystem C:/Qt/6.11.1/mingw_64/include/QtNetwork
@@ -63,7 +63,7 @@ build CMakeFiles/NovaInjector.dir/src/main.cpp.obj: CXX_COMPILER__NovaInjector_u
   TARGET_SUPPORT_DIR = CMakeFiles\NovaInjector.dir
 
 build CMakeFiles/NovaInjector.dir/src/mainwindow.cpp.obj: CXX_COMPILER__NovaInjector_unscanned_ C$:/Users/alexm/Documents/Programming/C++/DLL_Injector/src/mainwindow.cpp || cmake_object_order_depends_target_NovaInjector
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.0\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.1\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\NovaInjector.dir\src\mainwindow.cpp.obj.d
   FLAGS = -std=gnu++20
   INCLUDES = -IC:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/include -isystem C:/Qt/6.11.1/mingw_64/include/QtCore -isystem C:/Qt/6.11.1/mingw_64/include -isystem C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.11.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.1/mingw_64/include/QtGui -isystem C:/Qt/6.11.1/mingw_64/include/QtConcurrent -isystem C:/Qt/6.11.1/mingw_64/include/QtNetwork
@@ -72,7 +72,7 @@ build CMakeFiles/NovaInjector.dir/src/mainwindow.cpp.obj: CXX_COMPILER__NovaInje
   TARGET_SUPPORT_DIR = CMakeFiles\NovaInjector.dir
 
 build CMakeFiles/NovaInjector.dir/src/processutils.cpp.obj: CXX_COMPILER__NovaInjector_unscanned_ C$:/Users/alexm/Documents/Programming/C++/DLL_Injector/src/processutils.cpp || cmake_object_order_depends_target_NovaInjector
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.0\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.1\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\NovaInjector.dir\src\processutils.cpp.obj.d
   FLAGS = -std=gnu++20
   INCLUDES = -IC:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/include -isystem C:/Qt/6.11.1/mingw_64/include/QtCore -isystem C:/Qt/6.11.1/mingw_64/include -isystem C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.11.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.1/mingw_64/include/QtGui -isystem C:/Qt/6.11.1/mingw_64/include/QtConcurrent -isystem C:/Qt/6.11.1/mingw_64/include/QtNetwork
@@ -81,7 +81,7 @@ build CMakeFiles/NovaInjector.dir/src/processutils.cpp.obj: CXX_COMPILER__NovaIn
   TARGET_SUPPORT_DIR = CMakeFiles\NovaInjector.dir
 
 build CMakeFiles/NovaInjector.dir/src/updatecontroller.cpp.obj: CXX_COMPILER__NovaInjector_unscanned_ C$:/Users/alexm/Documents/Programming/C++/DLL_Injector/src/updatecontroller.cpp || cmake_object_order_depends_target_NovaInjector
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.0\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.1\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\NovaInjector.dir\src\updatecontroller.cpp.obj.d
   FLAGS = -std=gnu++20
   INCLUDES = -IC:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/include -isystem C:/Qt/6.11.1/mingw_64/include/QtCore -isystem C:/Qt/6.11.1/mingw_64/include -isystem C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.11.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.1/mingw_64/include/QtGui -isystem C:/Qt/6.11.1/mingw_64/include/QtConcurrent -isystem C:/Qt/6.11.1/mingw_64/include/QtNetwork
@@ -90,7 +90,7 @@ build CMakeFiles/NovaInjector.dir/src/updatecontroller.cpp.obj: CXX_COMPILER__No
   TARGET_SUPPORT_DIR = CMakeFiles\NovaInjector.dir
 
 build CMakeFiles/NovaInjector.dir/resources/app.rc.obj: RC_COMPILER__NovaInjector_unscanned_ C$:/Users/alexm/Documents/Programming/C++/DLL_Injector/resources/app.rc || cmake_object_order_depends_target_NovaInjector
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.0\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.1\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\NovaInjector.dir\resources\app.rc.obj.d
   INCLUDES = -I C:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/include -I C:/Qt/6.11.1/mingw_64/include/QtCore -I C:/Qt/6.11.1/mingw_64/include -I C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -I C:/Qt/6.11.1/mingw_64/include/QtWidgets -I C:/Qt/6.11.1/mingw_64/include/QtGui -I C:/Qt/6.11.1/mingw_64/include/QtConcurrent -I C:/Qt/6.11.1/mingw_64/include/QtNetwork
   OBJECT_DIR = CMakeFiles\NovaInjector.dir
@@ -98,7 +98,7 @@ build CMakeFiles/NovaInjector.dir/resources/app.rc.obj: RC_COMPILER__NovaInjecto
   TARGET_SUPPORT_DIR = CMakeFiles\NovaInjector.dir
 
 build CMakeFiles/NovaInjector.dir/NovaInjector_autogen/3YJK5W5UP7/qrc_resources.cpp.obj: CXX_COMPILER__NovaInjector_unscanned_ C$:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/3YJK5W5UP7/qrc_resources.cpp || cmake_object_order_depends_target_NovaInjector
-  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.0\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DNOMINMAX -DNOVA_VERSION=\"1.0.1\" -DQT_CONCURRENT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN32_LEAN_AND_MEAN -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\NovaInjector.dir\NovaInjector_autogen\3YJK5W5UP7\qrc_resources.cpp.obj.d
   FLAGS = -std=gnu++20
   INCLUDES = -IC:/Users/alexm/Documents/Programming/C++/DLL_Injector/build-qt/NovaInjector_autogen/include -isystem C:/Qt/6.11.1/mingw_64/include/QtCore -isystem C:/Qt/6.11.1/mingw_64/include -isystem C:/Qt/6.11.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.11.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.11.1/mingw_64/include/QtGui -isystem C:/Qt/6.11.1/mingw_64/include/QtConcurrent -isystem C:/Qt/6.11.1/mingw_64/include/QtNetwork
